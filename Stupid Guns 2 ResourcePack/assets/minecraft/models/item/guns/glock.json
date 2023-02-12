@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/guns/glock_5",
-		"1": "item/guns/glock_4",
-		"2": "item/guns/glock_3",
-		"3": "item/guns/glock_2",
-		"4": "item/guns/glock_1",
-		"particle": "item/guns/glock_5"
+		"0": "guns/glock_5",
+		"1": "guns/glock_4",
+		"2": "guns/glock_3",
+		"3": "guns/glock_2",
+		"4": "guns/glock_1",
+		"particle": "guns/glock_5"
 	},
 	"elements": [
 		{
